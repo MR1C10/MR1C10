@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##Feramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style= "width: 60px; heigth: 60px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" style= "width: 60px; heigth: 60px" />
 <div>
 <a href="https://github.com/MR1C10">
