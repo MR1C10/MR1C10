@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" style= "width: 60px; heigth: 60px" />
 <div>
 <a href="https://github.com/MR1C10">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR1C10&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&langs_count=7&theme=dracula"/>
 <!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MR1C10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
 </div>
 <div>
