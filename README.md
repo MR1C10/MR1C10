@@ -17,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" style= "width: 55px; heigth: 55px" />
 </div>
 
-<a href="https://github.com/MR1C10">
+
 
 <p align="left">
   <strong>Contatos</strong> 📞✉
