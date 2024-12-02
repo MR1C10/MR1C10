@@ -1,7 +1,11 @@
 ##  👋
-<div align="left">
-  <img loading="lazy" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajB5eDUwd3I1N3A4bXV1eGFmcXZpMzB6enZpZWpyZ3I4YW5idXN4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HRXnPYf10Zx0wz4alF/giphy.gif" alt="noite-gif" min-width="400px" max-width="200px" width="400px">
-</div>
+
+<a align="right" href="https://github.com/rafalvs" >
+  <img align="right" loading="lazy" height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=rafalvs&hide=html&layout=compact&theme=dracula />
+</a>
+<p align="left">
+  <strong>Ferramentas e Tecnologias</strong> 💻🚀
+</p>
 ---
 <p align="left">
   <strong>Ferramentas e Tecnologias</strong> 💻🚀
