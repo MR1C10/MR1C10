@@ -3,7 +3,7 @@
 Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um grande desenvolvedor
 
 <div align="left">
-  <img loading="lazy" src="https://media.tenor.com/58bvc8cYpMQAAAAM/mrw-reaction.gif" alt="noite-gif" min-width="400px" max-width="600px" width="1000px">
+  <img loading="lazy" src="https://media.tenor.com/GEJ4RsZvrKAAAAAM/couch-potato-southpark.gif" alt="noite-gif" min-width="400px" max-width="600px" width="1000px">
 </div>
 
 - Formado em Sistemas de Informação - Uninove
