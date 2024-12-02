@@ -5,7 +5,7 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
 <div align="left">
   <img loading="lazy" src="https://media.tenor.com/GEJ4RsZvrKAAAAAM/couch-potato-southpark.gif" alt="noite-gif" min-width="400px" max-width="600px" width="1000px">
 </div>
-
+<br>
 - Cursando Desenvolvimento de Sistemas - ETEC
 
 ---
@@ -13,7 +13,7 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
 <a align="right" href="https://github.com/MR1C10" >
   <img align="right" loading="lazy" height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=MR1C10&hide=html&layout=compact&theme=dracula />
 </a>
-<p align="left" style= "font-size: large">
+<p align="left" style= "font-size: larger">
   <strong>Ferramentas e Tecnologias</strong> 💻🚀
 </p>
 <div align="left" padding="4px">
