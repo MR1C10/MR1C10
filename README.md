@@ -1,4 +1,4 @@
-## <code style="color : name_color">Salve</code>
+## <code style="color : name_color">Já pode codar?</code>
 
 Seja bem-vindo ao meu Github, aqui temos bolo de cenoura, noites más dormidas e muita raiva de CSS 😡
 
