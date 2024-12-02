@@ -6,7 +6,7 @@
 <p align="left">
   <strong>Ferramentas e Tecnologias</strong> 💻🚀
 </p>
-
+mamao
 <div align="left" padding="4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style= "width: 60px; heigth: 60px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style= "width: 60px; heigth: 60px"/>
