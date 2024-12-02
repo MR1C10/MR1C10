@@ -1,19 +1,7 @@
 ##  👋
-
-<!--
-**MR1C10/MR1C10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <img loading="lazy" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajB5eDUwd3I1N3A4bXV1eGFmcXZpMzB6enZpZWpyZ3I4YW5idXN4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HRXnPYf10Zx0wz4alF/giphy.gif" alt="noite-gif" min-width="400px" max-width="200px" width="400px">
+</div>
 ---
 <p align="left">
   <strong>Ferramentas e Tecnologias</strong> 💻🚀
@@ -28,11 +16,9 @@ Here are some ideas to get you started:
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR1C10&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 ---
-<div>
 <a href="https://github.com/MR1C10">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR1C10&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MR1C10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-</div>
+
+
 <div>
 <!-- <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
 <!-- <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
