@@ -6,7 +6,6 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
   <img loading="lazy" src="https://media.tenor.com/GEJ4RsZvrKAAAAAM/couch-potato-southpark.gif" alt="noite-gif" min-width="400px" max-width="600px" width="1000px">
 </div>
 
-- Formado em Sistemas de Informação - Uninove
 - Cursando Desenvolvimento de Sistemas - ETEC
 
 ---
