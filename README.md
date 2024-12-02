@@ -1,6 +1,6 @@
 ## <code style="color : name_color">Já pode codar?</code>
 
-Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um grande desenvolvedor:computer:
+Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um grande desenvolvedor :computer:
 
 <div align="left">
   <img loading="lazy" src="https://media.tenor.com/GEJ4RsZvrKAAAAAM/couch-potato-southpark.gif" alt="noite-gif" min-width="400px" max-width="600px" width="1000px">
