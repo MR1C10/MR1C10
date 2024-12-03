@@ -12,6 +12,11 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
 <a align="right" href="https://github.com/MR1C10" >
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR1C10&layout=compact&langs_count=7&theme=dracula"/>
 </a>
+
+<a align="right" href="https://github.com/rafalvs" >
+  <img align="right" loading="lazy" height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=rafalvs&hide=html&layout=compact&theme=dracula />
+</a>
+
 <p align="left">
   <strong style= "font-size= large">Ferramentas e Tecnologias</strong> 💻🚀
 </p>
