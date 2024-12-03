@@ -9,12 +9,13 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
 - Cursando Desenvolvimento de Sistemas - ETEC
 
 ---
+<a align="right" href="https://github.com/MR1C10" >
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR1C10&layout=compact&langs_count=7&theme=dracula"/>
+</a>
+  
 <p align="left">
   <strong style= "font-size= large">Ferramentas e Tecnologias</strong> 💻🚀
 </p>
-<a align="right" href="https://github.com/MR1C10" >
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR1C10&layout=compact&langs_count=7&theme=dracula"/>
-</a>
 <div align="left" padding="4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style= "width: 50px; heigth: 50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style= "width: 50px; heigth: 50px"/>
