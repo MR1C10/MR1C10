@@ -34,9 +34,9 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
 
 <div align="left">
   <a href="mailto:rafaelalvessantana0401@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=rafaelalvessantana0401@gmail.com" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mauriciorcsouza1206@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/rafalvs" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafalvs" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://**www.linkedin.com/in/mr1c10**" alt="LinkedIn"/></a>
 </div>
 
 
