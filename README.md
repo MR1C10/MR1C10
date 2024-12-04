@@ -3,7 +3,7 @@
 Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um grande desenvolvedor :computer:
 
 <div align="left">
-  <img loading="lazy" src="https://media.tenor.com/GEJ4RsZvrKAAAAAM/couch-potato-southpark.gif" alt="noite-gif" min-width="400px" max-width="600px" width="1000px">
+  <img loading="lazy" src="https://i.pinimg.com/originals/b9/01/85/b9018579aebd5c161b0eac79ca04f17a.gif" alt="meianoite-gif" width="498px" height="280px">
 </div>
 <br>
 - Cursando Desenvolvimento de Sistemas - ETEC
