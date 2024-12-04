@@ -3,7 +3,7 @@
 Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um grande desenvolvedor :computer:
 
 <div align="left">
-  <img loading="lazy" src="https://i.pinimg.com/originals/ae/56/d1/ae56d10f023f455739a635e435732a94.gif" alt="meianoite-gif" width="900px" height="280px">
+  <img loading="lazy" src="https://i.pinimg.com/originals/ae/56/d1/ae56d10f023f455739a635e435732a94.gif" alt="meianoite-gif" width="600px" height="280px">
 </div>
 <br>
 - Cursando Desenvolvimento de Sistemas - ETEC
