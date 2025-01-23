@@ -24,7 +24,7 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style= "width: 40px; heigth: 40px" />
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" style= "width: 40px; heigth: 40px" />
-  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" style= "width: 40px; heigth: 40px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style= "width: 40px; heigth: 40px" />
 
 </div>
 
