@@ -21,7 +21,7 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style= "width: 40px; heigth: 40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style= "width: 40px; heigth: 40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style= "width: 40px; heigth: 40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" style= "width: 40px; heigth: 40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" style= "width: 40px; heigth: 40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style= "width: 40px; heigth: 40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style= "width: 40px; heigth: 40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style= "width: 40px; heigth: 40px" />
