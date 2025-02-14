@@ -52,8 +52,8 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
   [discord-url]: https://discord.com/users/688597843833126963  
 </div>
 
-<!-- [![Linkedin][linkedin-shield]][linkedin-url]
-[![Discord][discord-shield]][discord-url] -->
+[![Linkedin][linkedin-shield]][linkedin-url]
+[![Discord][discord-shield]][discord-url]
 
 
 [linkedin-shield]: https://img.shields.io/badge/-crismoraesds-black.svg?style=flat-square&logo=linkedin&logoColor=white&colorB=0077b5
