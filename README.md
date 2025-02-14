@@ -48,16 +48,7 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
   
   <a href="https://www.linkedin.com/in/mr1c10" title="LinkedIn" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://**www.linkedin.com/in/mr1c10**" alt="LinkedIn"/></a>
-  [discord-shield]: https://img.shields.io/badge/-hit_om-black.svg?style=flat-square&logo=discord&logoColor=white&colorB=5865F2
-  [discord-url]: https://discord.com/users/688597843833126963  
 </div>
-
-[![Linkedin][linkedin-shield]][linkedin-url]
-[![Discord][discord-shield]][discord-url]
-
-
-[linkedin-shield]: https://img.shields.io/badge/-crismoraesds-black.svg?style=flat-square&logo=linkedin&logoColor=white&colorB=0077b5
-[linkedin-url]: https://linkedin.com/in/crismoraesds/
 <!--
 <a align="right" href="https://github.com/MR1C10" >
   <img align="right" loading="lazy" height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=MR1C10&hide=html&layout=compact&theme=dracula />
