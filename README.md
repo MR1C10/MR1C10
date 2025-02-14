@@ -61,7 +61,7 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
 <!-- [dev.to-shield]: https://img.shields.io/badge/-criskell-black.svg?style=flat-square&logo=dev.to&logoColor=white&colorB=000000
 [dev.to-url]: https://dev.to/criskell -->
 [discord-shield]: https://img.shields.io/badge/-hit_om-black.svg?style=flat-square&logo=discord&logoColor=white&colorB=5865F2
-[discord-url]: https://discord.com/users/932741852514369607
+[discord-url]: https://discord.com/users/688597843833126963
 <!--
 <a align="right" href="https://github.com/MR1C10" >
   <img align="right" loading="lazy" height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=MR1C10&hide=html&layout=compact&theme=dracula />
