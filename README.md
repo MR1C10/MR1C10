@@ -10,12 +10,7 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
 
 ---
 <!--<a align="right" href="https://github.com/MR1C10" > -->
-  <!--<img align="right" loading="lazy" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR1C10&layout=compact&langs_count=7&theme=dracula"/>-->
-<a align="right" href="https://github.com/mr1c10">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr1c10&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mr1c10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a> 
-  
+  <!--<img align="right" loading="lazy" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR1C10&layout=compact&langs_count=7&theme=dracula"/>-->  
 <p align="left">
   <strong style= "font-size= large">Ferramentas e Tecnologias</strong> 💻🚀
 </p>
@@ -31,8 +26,12 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style= "width: 50px; heigth: 50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" style= "width: 40px; heigth: 40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style= "width: 40px; heigth: 40px" />
-
 </div>
+
+<a align="right" href="https://github.com/mr1c10">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr1c10&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mr1c10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a> 
 
 ---
 
