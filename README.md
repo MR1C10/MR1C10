@@ -12,7 +12,7 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
 <!--<a align="right" href="https://github.com/MR1C10" > -->
   <!--<img align="right" loading="lazy" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR1C10&layout=compact&langs_count=7&theme=dracula"/>-->
 <a align="right" href="https://github.com/mr1c10">
-  <img align= "right" loading="lazy" height="180em" width="500cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr1c10&layout=compact&langs_count=7&theme=dracula"/>
+  <img align= "right" loading="lazy" height="180em" width="600cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr1c10&layout=compact&langs_count=7&theme=dracula"/>
 </a> 
   
 <p align="left">
