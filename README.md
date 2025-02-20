@@ -51,8 +51,6 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
 
   <a href="https://www.instagram.com/_mau_rodrigues" title="LinkedIn" target="_blank">
   <img src="/img/INSTAicon.png" alt="Instagram" style="height: 30px; width: 30px;/></a>
-
-  
 </div>
 
 <!--
