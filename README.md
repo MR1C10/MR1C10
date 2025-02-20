@@ -52,9 +52,3 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
   <a href="https://www.instagram.com/_mau_rodrigues" title="LinkedIn" target="_blank">
   <img src="/img/INSTAicon.png" alt="Instagram" style="height: 30px; width: 30px;/></a>
 </div>
-
-<!--
-<a align="right" href="https://github.com/MR1C10" >
-  <img align="right" loading="lazy" height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=MR1C10&hide=html&layout=compact&theme=dracula />
-</a>
--->
