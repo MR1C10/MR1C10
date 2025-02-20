@@ -43,6 +43,7 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
 </p>
 
 <div align="left">
+  
   <a href="mailto:mauriciorcsouza1206@gmail.com" title="Gmail" target="_blank">
   <img src="/img/GMAILicon.png" alt="Gmail" style="height: 30px; width: 30px;/></a>
   
@@ -51,4 +52,5 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
 
   <a href="https://www.instagram.com/_mau_rodrigues" title="Instagram" target="_blank">
   <img src="/img/INSTAicon.png" alt="Instagram" style="height: 30px; width: 30px;/></a>
+
 </div>
