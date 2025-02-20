@@ -43,15 +43,11 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
 </p>
 
 <div align="left">
-  <a href="mailto:mauriciorcsouza1206@gmail.com" title="Gmail">
+  <a href="mailto:mauriciorcsouza1206@gmail.com" title="Gmail" target="_blank">
   <img src="/img/GMAILicon.png" style="height: 30px; width: 30px; color: red" alt="Gmail"/></a>
   
   <a href="https://www.linkedin.com/in/mr1c10" title="LinkedIn" target="_blank">
-<<<<<<< HEAD
-  <img src="/img/LKicon.png" alt="LinkedIn" style="height: 30px; width: 30px; color: cornflowerblue"/></a>
-=======
-  <img src="/img/LKicon.png" alt="LinkedIn" style="height: 30px; width: 30px;"/></a>
->>>>>>> c7a54159367a0adb2cd5292488268493f8a09699
+  <img src="/img/LKicon.png" alt="LinkedIn" style="height: 30px; width: 30px; color: cornflowerblue" alt="Linkedin"/></a>
 </div>
 
 <!--
