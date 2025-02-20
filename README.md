@@ -45,12 +45,12 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
 <div align="left">
   
   <a href="mailto:mauriciorcsouza1206@gmail.com" title="Gmail" target="_blank">
-  <img src="/img/GMAILicon.png" alt="Gmail" style="height: 30px; width: 30px;"/></a>
+  <img src="/img/GMAILicon.png" alt="Gmail" style="height: 25px; width: 25px;"/></a>
   
   <a href="https://www.linkedin.com/in/mr1c10" title="LinkedIn" target="_blank">
-  <img src="/img/LKicon.png" alt="LinkedIn" style="height: 30px; width: 30px;"/></a>
+  <img src="/img/LKicon.png" alt="LinkedIn" style="height: 25px; width: 25px;"/></a>
 
   <a href="https://www.instagram.com/_mau_rodrigues" title="Instagram" target="_blank">
-  <img src="/img/INSTAicon.png" alt="Instagram" style="height: 30px; width: 30px;"></a>
+  <img src="/img/INSTAicon.png" alt="Instagram" style="height: 25px; width: 25px;"></a>
 
 </div>
