@@ -47,7 +47,7 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mauriciorcsouza1206@gmail.com" alt="Gmail"/></a>
   
   <a href="https://www.linkedin.com/in/mr1c10" title="LinkedIn" target="_blank">
-  <img src="/img/LKicon.png" alt="LinkedIn"/></a>
+  <img src="/img/LKicon.png" alt="LinkedIn" style="height: 50px; width: 50px;"/></a>
 </div>
 <!--
 <a align="right" href="https://github.com/MR1C10" >
