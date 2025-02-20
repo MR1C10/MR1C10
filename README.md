@@ -44,11 +44,12 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
 
 <div align="left">
   <a href="mailto:mauriciorcsouza1206@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mauriciorcsouza1206@gmail.com" alt="Gmail"/></a>
+  <img src="/img/GMAILicon.png" style="height: 30px; width: 30px; color: red" alt="Gmail"/></a>
   
   <a href="https://www.linkedin.com/in/mr1c10" title="LinkedIn" target="_blank">
-  <img src="/img/LKicon.png" alt="LinkedIn"/></a>
+  <img src="/img/LKicon.png" alt="LinkedIn" style="height: 30px; width: 30px; color: cornflowerblue"/></a>
 </div>
+
 <!--
 <a align="right" href="https://github.com/MR1C10" >
   <img align="right" loading="lazy" height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=MR1C10&hide=html&layout=compact&theme=dracula />
