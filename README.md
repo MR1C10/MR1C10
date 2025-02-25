@@ -14,19 +14,6 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
 <p align="left">
   <strong style= "font-size= large">Ferramentas e Tecnologias</strong> 💻🚀
 </p>
-<div align="left" padding="3px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style= "width: 50px; heigth: 50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style= "width: 50px; heigth: 50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style= "width: 50px; heigth: 50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style= "width: 50px; heigth: 50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" style= "width: 50px; heigth: 50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style= "width: 50px; heigth: 50px" />
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style= "width: 50px; heigth: 50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style= "width: 50px; heigth: 50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" style= "width: 40px; heigth: 40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style= "width: 40px; heigth: 40px" />
-</div>
 
 <div align="left">
   <div>
@@ -68,6 +55,19 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
 
 </div>
 
+<!-- <div align="left" padding="3px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style= "width: 50px; heigth: 50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style= "width: 50px; heigth: 50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style= "width: 50px; heigth: 50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style= "width: 50px; heigth: 50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" style= "width: 50px; heigth: 50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style= "width: 50px; heigth: 50px" />
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style= "width: 50px; heigth: 50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style= "width: 50px; heigth: 50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" style= "width: 40px; heigth: 40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style= "width: 40px; heigth: 40px" />
+</div> -->
 
 ---
 <div>
