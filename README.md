@@ -44,22 +44,17 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
 
 <div align="left">
   <a href="mailto:mauriciorcsouza1206@gmail.com" title="Gmail" target="_blank">
-  <img src="img/GMAILicon.png" alt="Gmail" style="height: 25px; width: 25px;" /></a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/></a>
 
   <a href="https://www.linkedin.com/in/mr1c10" title="LinkedIn" target="_blank">
-  <img src="img/LKicon.png" alt="LinkedIn" style="height: 25px; width: 25px;" /></a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
 
   <a href="https://www.instagram.com/_mau_rodrigues" title="Instagram" target="_blank">
-  <img src="img/INSTAicon.png" alt="Instagram" style="height: 25px; width: 25px;"></a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/></a>
+
+  <a href="" title"" target= "_blank"> 
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/></a>
 </div>
-
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
-
+ 
 ###
 ---
