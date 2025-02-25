@@ -53,10 +53,6 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
   </div>
 </div>
 
-###
-
-</div>
-
 <!-- <div align="left" padding="3px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style= "width: 50px; heigth: 50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style= "width: 50px; heigth: 50px"/>
