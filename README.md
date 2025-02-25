@@ -35,7 +35,10 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
     <img width="1" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-    <img width="1" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+    <img width="1" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+    <img width="1" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="50" alt="bulma logo"  />
   </div>
   <br>
   <div>
@@ -51,7 +54,9 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
     <img width="1" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
   </div>
-</div>
+</div
+
+
 
 <!-- <div align="left" padding="3px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style= "width: 50px; heigth: 50px" />
