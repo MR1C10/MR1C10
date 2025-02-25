@@ -54,7 +54,7 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
     <img width="1" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
   </div>
-</div
+</div>
 
 
 
