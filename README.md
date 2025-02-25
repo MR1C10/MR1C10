@@ -28,9 +28,6 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
     <img width="1" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" style= "width: 50px; heigth: 50px" alt="android logo"/>
     <img width="1" />
-  </div>
-  <br>
-  <div align="right">
     <h4>Front</h4>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
     <img width="1" />
