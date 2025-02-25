@@ -28,7 +28,7 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style= "width: 40px; heigth: 40px" />
 </div>
 
-<div align="left" padding="3px">
+<div align="left">
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
     <img width="1" />
