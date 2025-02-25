@@ -82,11 +82,11 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
 
 ---
 
-<p align="left">
+<p align="center">
   <strong>Contatos</strong> 📞✉
 </p>
 
-<div align="left">
+<div align="center">
   <a href="mailto:mauriciorcsouza1206@gmail.com" title="Gmail" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/></a>
 
