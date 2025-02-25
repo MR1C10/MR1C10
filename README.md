@@ -57,11 +57,10 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
 </div>
 
 ---
-<div>
-  <a aligh= "center" href="https://github.com/mr1c10">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr1c10&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mr1c10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a> 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr1c10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr1c10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ---
