@@ -7,6 +7,7 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
 </div>
 <br>
 <h3>Cursando Desenvolvimento de Sistemas - ETEC</h3>
+<h4>Estagiário Fundação de Rotarianos de São Paulo</h4>
 
 ---
 <!--<a align="right" href="https://github.com/MR1C10" > -->
