@@ -16,36 +16,43 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
   <strong style="font-size: large"><h3 align="center">Ferramentas e Tecnologias 💻🚀</h3></strong>
 </p>
 
-<table align="center">
-  <tr>
-    <!-- Back -->
-    <td align="center" style="vertical-align: top; padding-right: 50px;">
-      <h4>Back</h4>
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+
+  <!-- Back e Database -->
+  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 50px;">
+    <h4>Back</h4>
+    <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" height="50" alt="android logo" />
-      <br><br>
-      <h4>Database</h4>
+    </div>
+    <h4 style="margin-top: 20px;">Database</h4>
+    <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="mssql logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
-    </td>
-    <!-- Front -->
-    <td align="center" style="vertical-align: top; padding-left: 50px;">
-      <h4>Front</h4>
+    </div>
+  </div>
+
+  <!-- Front -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <h4>Front</h4>
+    <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="50" alt="bulma logo" />
-    </td>
-  </tr>
-</table>
+    </div>
+  </div>
+
+</div>
+
 
 
 <!--
