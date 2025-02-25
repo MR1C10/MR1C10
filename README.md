@@ -15,8 +15,8 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
   <strong style= "font-size= large"><h3>Ferramentas e Tecnologias💻🚀</h3></strong>
 </p>
 
-<div align="left">
-  <div>
+<div>
+  <div align="left">
     <h4>Back</h4>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
     <img width="1" />
@@ -30,7 +30,7 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
     <img width="1" />
   </div>
   <br>
-  <div>
+  <div align="right">
     <h4>Front</h4>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
     <img width="1" />
