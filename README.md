@@ -6,7 +6,7 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
   <img loading="lazy" src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="meianoite-gif" width="900px" height="370px"> <!--512x300 tamanho ideal-->
 </div>
 <br>
-- Cursando Desenvolvimento de Sistemas - ETEC
+- <h2>Cursando Desenvolvimento de Sistemas - ETEC</h2>
 
 ---
 <!--<a align="right" href="https://github.com/MR1C10" > -->
