@@ -38,7 +38,6 @@ Seja bem-vindo ao meu Github, me acompanhe em minha jornada de se tornar um gran
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
     </div>
   </div>
-
   <!-- Front -->
   <div style="display: flex; flex-direction: column; align-items: center;">
     <h4>Front</h4>
