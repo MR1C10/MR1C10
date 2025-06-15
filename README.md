@@ -71,15 +71,6 @@ Bem-vindo ao meu GitHub! Me acompanhe em minha jornada de se tornar um grande de
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr1c10&layout=compact&langs_count=6&theme=default"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mr1c10&show_icons=true&theme=default&include_all_commits=true"/>
-</div>
-
----
-
 ## 📩 Contato
 
 <div align="center">
