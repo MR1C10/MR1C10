@@ -71,6 +71,8 @@ Bem-vindo ao meu GitHub! Me acompanhe em minha jornada de se tornar um grande de
 
 ---
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/mr1c10)
+
 ## 📩 Contato
 
 <div align="center">
