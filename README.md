@@ -13,7 +13,6 @@ Bem-vindo ao meu GitHub! Me acompanhe em minha jornada de se tornar um grande de
 ---
 
 ## 🛠 Tech Stack
-
 <div align="center">
   <table>
     <tr>
