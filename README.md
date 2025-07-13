@@ -13,6 +13,7 @@ Bem-vindo ao meu GitHub! Me acompanhe em minha jornada de se tornar um grande de
 ---
 
 ## 🛠 Tech Stack
+
 <div align="center">
   <table>
     <tr>
@@ -20,12 +21,12 @@ Bem-vindo ao meu GitHub! Me acompanhe em minha jornada de se tornar um grande de
       <td valign="top">
         <h3>🔙 Backend</h3>
         <div>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
-          <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40" alt="C#"/>
+          <img src="https://skillicons.dev/icons?i=dotnet" height="40" width="40" alt="dotnet"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="40" alt="Spring"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="40" alt="PHP"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python"/>
         </div>
       </td>
       <!-- Coluna Frontend -->
