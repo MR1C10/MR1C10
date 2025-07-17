@@ -35,7 +35,8 @@ Bem-vindo ao meu GitHub! Me acompanhe em minha jornada de se tornar um grande de
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="PostgreSQL"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="40" alt="SQL Server"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="Docker"/>
+<!--           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="Docker"/> -->
+          <img src="https://skillicons.dev/icons?i=docker" height="40" width="40" alt="Docker"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="40" alt="kubernetes logo"/>
         </div>
       </td>
