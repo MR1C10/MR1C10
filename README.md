@@ -23,8 +23,8 @@ Bem-vindo ao meu GitHub! Me acompanhe em minha jornada de se tornar um grande de
         <div>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40" alt="C#"/>
           <img src="https://skillicons.dev/icons?i=dotnet" height="40" width="40" alt="dotnet"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java"/>
           <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" width="40" alt="go logo"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java"/>
 <!--           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="40" alt="go logo" /> -->
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="40" alt="PHP"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python"/>
