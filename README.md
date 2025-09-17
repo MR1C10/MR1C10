@@ -7,7 +7,7 @@ Bem-vindo ao meu GitHub! Me acompanhe em minha jornada de se tornar um grande de
 </div>
 
 ## 📚 Formação
-- **Desenvolvimento de Sistemas** @ ETEC (cursando)
+- **Desenvolvimento de Sistemas** @ETEC (cursando)
 - **Assistente de Projetos JR** na Strati
 
 ---
