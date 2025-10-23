@@ -56,7 +56,6 @@ Bem-vindo ao meu GitHub! Me acompanhe em minha jornada de se tornar um grande de
   </table>
 </div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1prvi53t67qh884hlp1t1tvg8)
 ---
 
 ## 📩 Contato
