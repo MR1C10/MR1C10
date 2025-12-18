@@ -1,7 +1,3 @@
-# <code style="color:name_color">Já pode codar?</code> 👨‍💻
-
-Bem-vindo ao meu GitHub! Me acompanhe em minha jornada de se tornar um grande desenvolvedor 💻.
-
 <div align="center">
   <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="Dev GIF" width="900" height="370">
 </div>
@@ -36,7 +32,6 @@ Bem-vindo ao meu GitHub! Me acompanhe em minha jornada de se tornar um grande de
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="PostgreSQL"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="40" alt="SQL Server"/>
 <!--           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="Docker"/> -->
-          <img src="https://skillicons.dev/icons?i=docker" height="40" width="40" alt="Docker"/>
 <!--           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="40" alt="kubernetes logo"/> -->
         </div>
       </td>
@@ -46,8 +41,9 @@ Bem-vindo ao meu GitHub! Me acompanhe em minha jornada de se tornar um grande de
         <div>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="Linux"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="40" alt="bash logo"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="40" alt="Azure"/>
+          <img src="https://skillicons.dev/icons?i=docker" height="40" width="40" alt="Docker"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="40" alt="Azure"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="40" alt="Visual Studio"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="VSCode"/>
         </div>
