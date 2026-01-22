@@ -3,7 +3,7 @@
 </div>
 
 ## 📚 Formação
-- **Desenvolvimento de Sistemas** @ETEC (cursando)
+- **Desenvolvimento de Sistemas** @ETEC
 - **Assistente de Projetos JR** na Strati
 
 ---
